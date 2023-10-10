@@ -40,6 +40,7 @@ Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXNzd29yZCI6InlvdXdpbGxu
 }
 
 ###
-DELETE  https://localhost:5050/record/65206d3d76263d2378795c4a HTTP/1.1
+DELETE  https://localhost:5050/record/6525803980d614ef65161956 HTTP/1.1
 content-Type: application/json
 Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXNzd29yZCI6InlvdXdpbGxuZXZlcmd1ZXNzIiwiaWF0IjoxNjk2NjIzODgzLCJleHAiOjE2OTY2Mjc0ODN9.DbCJ0lguVUNyv-Fb4V8C5uVbo9Gv-y33S5LVdpEKOfw
+//65206d3d76263d2378795c4a
